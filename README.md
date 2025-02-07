@@ -1,4 +1,5 @@
 <p align="center"><a href="https://www.gov.cn"><img width="40%" alt="China!" src="./assets/gh-readme-header.jpeg" /></a></p>
+
 Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory, data analysis, AI algorithm and AI large model development.
 ### About me
 - 📖 Currently pursuing a Master's degree at [Shandong University](https://www.en.sdu.edu.cn)
