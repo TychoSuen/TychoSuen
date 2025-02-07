@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.gov.cn"><img width="80%" alt="China!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.gov.cn"><img width="80%" alt="China!" src="./assets/gh-readme-header.jpeg" /></a></p>
 
 <br />
 
