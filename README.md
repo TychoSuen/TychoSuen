@@ -9,7 +9,7 @@ Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory,
 ![Mortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortal0110&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true&count_private=true&hide=contribs,prs)
 ### Top Repositories
 <a href="https://github.com/Mortal0110/Yoga14sACH2021_Hackintosh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Yoga14sACH021_Hackintosh&theme=one_dark_pro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro" />
 </a>
 <a href="https://github.com/Mortal0110/iOS_Rules">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Configuration_for_Loon&theme=one_dark_pro" />
