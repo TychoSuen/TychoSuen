@@ -12,5 +12,5 @@ Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory,
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro" />
 </a>
 <a href="https://github.com/Mortal0110/iOS_Rules">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=iOS_Rules&theme=one_dark_pro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Configuration_for_Loon&theme=one_dark_pro" />
 </a>
