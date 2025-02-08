@@ -8,6 +8,8 @@ Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory,
 ### My Github Stats
 ![Mortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortal0110&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true&count_private=true&hide=contribs,prs)
 ### Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro)](https://github.com/Mortal0110/Yoga14sACH2021_Hackintosh)
+<!--
 <a href="https://github.com/Mortal0110/Yoga14sACH2021_Hackintosh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro" />
 </a>
