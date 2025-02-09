@@ -6,7 +6,7 @@ Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory,
 - ❤️ I love Number Theory、Python and AI 
 - 💬 Ask me about anything [here](https://github.com/Mortal0110/Mortal0110/issues)
 - 
-### My Github Stats and Codes
+### My Github Stats and Code
 <!--
 ![Mortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortal0110&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true&count_private=true&hide=contribs,prs)
 -->
