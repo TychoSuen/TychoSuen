@@ -18,7 +18,7 @@ Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory,
     <a href="https://github.com/Mortal0110?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/Mortal0110?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
-
+<details>
 ### Top Repositories
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro)](https://github.com/Mortal0110/Yoga14sACH2021_Hackintosh)
@@ -29,3 +29,4 @@ Hello, I am Mortal0110, a Chinese🇨🇳 student who is studying number theory,
 <a href="https://github.com/Mortal0110/iOS_Rules">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mortal0110&repo=Configuration_for_Loon&theme=one_dark_pro" />
 </a>
+</details>
