@@ -23,15 +23,17 @@ Hello, I am TychoSuen, a Chinese🇨🇳 student who is studying number theory, 
 <summary>Top Repositories</summary>
 </details>details>
 -->
+
 ### Top Repositories
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro)](https://github.com/TychoSuen/Yoga14sACH2021_Hackintosh)
 -->
+<p>
 <a href="https://github.com/TychoSuen/Yoga14sACH2021_Hackintosh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro" />
 </a>
 <a href="https://github.com/TychoSuen/iOS_Rules">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Configuration_for_Loon&theme=one_dark_pro" />
 </a>
-
+</p>
