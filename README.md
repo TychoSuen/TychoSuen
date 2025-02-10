@@ -24,6 +24,7 @@ Hello, I am TychoSuen, a Chinese🇨🇳 student who is studying number theory, 
 </details>details>
 -->
 ### Top Repositories
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro)](https://github.com/TychoSuen/Yoga14sACH2021_Hackintosh)
 -->
