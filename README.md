@@ -2,7 +2,8 @@
 
 Hello, I am TychoSuen, a Chinese🇨🇳 student who is studying number theory, data analysis, AI algorithm and AI large model development.
 ### About me
-- 📖 Currently pursuing a Master's degree at [Shandong University](https://www.en.sdu.edu.cn)
+- 🎒 Currently pursuing a Master's degree at [Shandong University](https://www.en.sdu.edu.cn)
+- 📖 Books I highly recommended: How To Read A Book, Nonviolent Communication
 - ❤️ I love Number Theory、Python and AI 
 - 💬 Ask me about anything [here](https://github.com/TychoSuen/TychoSuen/issues)
 ### My Github Stats and Code
