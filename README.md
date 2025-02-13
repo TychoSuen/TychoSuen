@@ -12,7 +12,9 @@ Hello, I am Tycho Suen, a Chinese🇨🇳 student who is studying number theory,
 -->
 
 <p align="left">
+    <a href="https://github.com/TychoSuen">
     <img alt = "TychoSuen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TychoSuen&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true&count_private=true&hide=contribs,prs">
+    </a>
     <br>
     <a href="https://github.com/TychoSuen?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/TychoSuen?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
