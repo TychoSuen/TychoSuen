@@ -28,10 +28,8 @@ Hello, I am Tycho Suen, a Chinese🇨🇳 student who is studying number theory,
 -->
 
 ### Top Repositories
-
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro)](https://github.com/TychoSuen/Yoga14sACH2021_Hackintosh)
--->
+<!--
 <p>
 <a href="https://github.com/TychoSuen/Yoga14sACH2021_Hackintosh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Yoga14sACH2021_Hackintosh&theme=one_dark_pro" />
@@ -40,3 +38,4 @@ Hello, I am Tycho Suen, a Chinese🇨🇳 student who is studying number theory,
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TychoSuen&repo=Configuration_for_Loon&theme=one_dark_pro" />
 </a>
 </p>
+-->
